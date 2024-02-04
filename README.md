@@ -1,0 +1,1 @@
+Mini Project for SQL
